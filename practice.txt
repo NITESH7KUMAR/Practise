@@ -1,0 +1,3 @@
+Hello this is my first Git Bash practise Example .
+So,thanks for reading this.
+See you next time
